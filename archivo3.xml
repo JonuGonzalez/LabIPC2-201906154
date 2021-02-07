@@ -1,0 +1,14 @@
+<Pais>
+	<Municipio>
+		<nombre>villanueva</nombre>
+		<poblacion>10000</poblacion>
+	</Municipio>
+	<Municipio>
+		<nombre>mixco</nombre>
+		<poblacion>20000</poblacion>
+	</Municipio>
+	<Municipio>
+		<nombre>guatemala</nombre>
+		<poblacion>30000</poblacion>
+	</Municipio>
+</Pais>

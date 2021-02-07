@@ -1,0 +1,14 @@
+<autos>
+	<auto id = "1">
+		<marca>ferrari</marca>
+		<color>rojo</color>
+	</auto>
+	<auto id = "2">
+		<marca>aston-martin</marca>
+		<color>azul</color>
+	</auto>
+	<auto id = "3">
+		<marca>audi</marca>
+		<color>negro</color>
+	</auto>
+</autos>

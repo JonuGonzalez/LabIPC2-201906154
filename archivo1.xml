@@ -1,0 +1,14 @@
+<personas>
+	<persona nombre = "Juan">
+		<edad>12</edad>
+		<nacionalidad>español</nacionalidad>
+	</persona>
+	<persona nombre = "Jonathan">
+		<edad>21</edad>
+		<nacionalidad>italiano</nacionalidad>
+	</persona>
+	<persona nombre = "Pedro">
+		<edad>37</edad>
+		<nacionalidad>ruso</nacionalidad>
+	</persona>
+</personas>
